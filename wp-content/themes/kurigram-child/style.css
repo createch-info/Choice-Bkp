@@ -1,0 +1,313 @@
+/*
+Theme Name: kurigram child
+Tags:  custom-menu, editor-style, featured-images
+Template: kurigram
+Version: 1.0.0
+*/
+
+/*---------------------------------
+      write your css from here
+------------------------------------*/
+
+/*
+Theme Name: kurigram child
+Tags:  custom-menu, editor-style, featured-images
+Template: kurigram
+Version: 1.0.0
+*/
+
+/*---------------------------------
+      write your css from here
+------------------------------------*/
+
+.page-id-19388 .trp_nav_area {
+    position: absolute;
+}
+
+.hbg2{
+	position:fixed !important;
+	top:0 !important;
+}
+
+.trp_nav_area {
+    top: 15px;
+}
+
+.kurigram-header-top{
+	background: #4C6083;
+}
+
+.donate-btn-header a{
+	font-size:15px !important;
+	padding: 5px 8px !important;
+}
+
+.kurigram_menu ul .sub-menu{
+	width:255px !important;
+}
+
+@media (min-width: 1660px){
+	.kurigram_menu ul .sub-menu {
+		margin: 0px 10px 0px 10px !important;
+	}
+	.kurigram_menu > ul > li > a{
+		margin: 38px 10px;
+	}
+}
+
+
+.kurigram_menu > ul > li > a, .heading_style_2 .kurigram_menu > ul > li > a, .heading_style_3 .kurigram_menu > ul > li > a, .heading_style_4 .kurigram_menu > ul > li > a, .witr_search_wh .em-header-quearys .em-quearys-menu i, .right_sideber_menu i, .main_menu_header_icon i, .main_menu_header_address_text h3, .main_menu_header_address_text h4 a, .heading_style_5 .kurigram_menu > ul > li > a{
+	padding:3px;	
+}
+
+.kurigram_menu ul .sub-menu{
+	margin: 0px 7px 0px 7px;
+	box-shadow:unset !important;
+	padding: 0px;
+}
+
+.kurigram_menu ul .sub-menu li a{
+	padding: 0px 3px;
+	margin-bottom: 0px;
+}
+
+.kurigram_menu ul .sub-menu li:hover > a, .kurigram_menu ul .sub-menu .sub-menu li:hover > a, .kurigram_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .kurigram_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a{
+	background:#4C6083;
+	color:#fff;
+}
+
+.count_val .single_counter{
+	min-height:275px;
+}
+
+.footer-middle .last .widget-title{
+	text-align:center;
+}
+
+.footer-middle .widget h2{
+	color: #0f7a81;
+}
+
+/* .portfolio_nav ul li:first-child{
+	display:none;
+} */
+
+#text-2{	
+	padding-right:50px;
+	padding-left:20px;
+}
+
+#text-3{
+	padding-right:50px;
+	padding-left:20px;
+}
+
+.kurigram_menu > ul > li.current > a, .kurigram_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
+    color: #ffffff;
+    background-color: #002549;
+}
+
+.hbg2 .kurigram_menu > ul > li > a {
+    color: #ffffff !important;
+}
+
+.kurigram_menu > ul > li.current > a, .kurigram_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
+    color: #FFFFFF !important;
+}
+
+.positi_3.pprotfolio4 {    
+    bottom: -160px;
+}
+
+.footer-middle .textwidget, .footer-middle .address{
+	font-size:17px !important;
+	
+}
+.widget-title{
+	text-decoration:underline;
+}
+
+.porttitle_inner4 h3 a{
+	text-transform:unset !important;
+}
+
+.porttitle_inner4 h3{text-transform:unset !important;}
+
+.category-item-p{display:none;}
+.porttitle_inner4 p span{display:none;}
+
+.footer-middle .widget h2{
+	    margin-bottom: 45px !important;
+}
+
+#custom_html-4 ul{
+	list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#custom_html-4 ul li {
+    display: inline-block;
+    margin-right: 15px;
+    position: relative;
+}
+
+#custom_html-4 .widget-title{	
+	margin-bottom: 25px !important;
+}
+
+.copy-right-text{
+	font-size:17px; 
+}
+
+.witr_feature_btn_3d a:hover {
+    background: #4c6083;
+    color: #fff;
+}
+
+@media (min-width: 992px){
+	.low-voltage-cabling{
+		-ms-flex: 0 0 25% !important;
+		-webkit-box-flex: 0;
+		flex: 0 0 25% !important;
+		max-width: 25% !important;
+	}
+}
+
+.search_submit{display: inline-block;}
+
+.search_submit input[type=submit]{
+    color: #fff !important;
+    background: #4C6083;
+    border-radius: 20px;
+    padding: 12px 25px;
+	cursor: pointer;
+	border:0px;
+}
+
+.search_submit input[type=submit]:hover{
+    background: #0F7A81;
+}
+
+.search_jobs input[type=text]{
+	width: 100%;
+    height: 45px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #d1d1d1;
+    outline: none;
+    margin-bottom: 20px;
+	padding-left: 20px;
+    text-align: center;
+ 	
+}
+
+.tips-smalltext{
+	font-size:15px;
+	color:#000;
+}
+@media (min-width:961px)  {
+	.tips-smalltext{
+		margin-top: -11px;
+	}
+}
+
+.witr_apartment_form input[type=submit]{
+    width: unset !important;
+    height: unset !important;
+    color: #fff !important;
+    border-radius: 5px;
+	background: #4c6083 !important;
+    border: none;
+    outline: none;
+    text-align: center;
+    display: inline-block;
+	border-radius: 30px 30px 30px 30px !important;
+    padding: 10px 24px 10px 24px !important;
+}
+
+.witr_apartment_form input[type=submit]:hover{   
+    color: #fff;
+	background: #0F7A81 !important;
+}
+
+/* .wpcf7-spinner{
+	display:block !important;
+} */
+
+.em_testi_title h2{
+	font-size:20px;
+}
+
+.picon{
+	display:none;
+}
+
+.test-part{
+	display:none;
+}
+
+/***Career***/
+.wpcf7-radio .wpcf7-list-item{
+	text-align:center;
+	
+}
+
+.wpcf7-radio .wpcf7-list-item-label{
+	color:#888888;
+	vertical-align: text-bottom;
+}
+
+.wpcf7-label{color:#000 !important;}
+
+.witr_apartment_form input[type=radio]{
+    width: 30px !important;
+    height: 15px !important;
+	cursor: pointer;
+	font-size: 15px;
+}
+
+.wpcf7 label {
+    font-size: 15.5px;
+}
+
+.wpcf7-list-item label{	
+	font-size: 15.5px;
+}
+
+.pt-20{
+	padding-top:30px;
+}
+
+
+.witr_apartment_form button[type=submit]{
+    width: unset !important;
+    height: unset !important;
+    color: #fff !important;
+    border-radius: 5px;
+	background: #4c6083 !important;
+    border: none;
+    outline: none;
+    text-align: center;
+    display: inline-block;
+	border-radius: 30px 30px 30px 30px !important;
+    padding: 10px 24px 10px 24px !important;
+}
+
+.witr_apartment_form button[type=submit]:hover{
+    
+    color: #fff !important;    
+	background: #0F7A81 !important;
+    
+}
+
+.codedropz-btn-wrap a{
+	background:#4c6083 !important;
+	color:#fff !important;
+	font-size:15.5px !important;
+	padding: 3px;
+}
+
+.codedropz-upload-inner h3{
+	font-size:15.5px !important;
+}
+
